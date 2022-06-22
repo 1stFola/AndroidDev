@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.journal.MainActivity">
+
+
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+         />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+         />
+
+    <item
+        android:id="@+id/recently_deleted"
+        android:icon="@drawable/ic_baseline_restore_from_trash_24"
+        android:title="Recently Deleted"
+         />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Person"
+         />
+
+
+
+</menu>
